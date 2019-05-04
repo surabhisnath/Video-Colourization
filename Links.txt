@@ -1,0 +1,6 @@
+https://github.com/ThejanW/FlowChroma
+https://arxiv.org/abs/1502.04681
+https://github.com/mauckc/colorize-video
+https://github.com/PrimozGodec/ImageColorization
+
+https://github.com/tencia/video_predict
